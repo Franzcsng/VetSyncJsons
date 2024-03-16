@@ -1,0 +1,34 @@
+{
+  "pets": [
+    {
+      "id": "001",
+      "name": "Bucky",
+      "Age": "3yrs Old",
+      "Breed": "Labador",
+    },
+    {
+      "id": "002",
+      "name": "James",
+      "Age": "1yr Old",
+      "Breed": "Dachshund",
+    },
+    {
+      "id": "003",
+      "name": "Collie",
+      "Age": "3yrs Old",
+      "Breed": "Pug",
+    },
+    {
+      "id": "004",
+      "name": "Grogu",
+      "Age": "3yrs Old",
+      "Breed": "German Shephered",
+    },
+    {
+      "id": "005",
+      "name": "Stark",
+      "Age": "3yrs Old",
+      "Breed": "Malinois",
+    },
+  ]
+}
