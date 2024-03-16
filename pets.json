@@ -5,30 +5,35 @@
       "name": "Bucky",
       "Age": "3yrs Old",
       "Breed": "Labador",
+      "img": "https://github.com/Franzcsng/VetSyncJsons/blob/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/labby.jpeg"
     },
     {
       "id": "002",
       "name": "James",
       "Age": "1yr Old",
       "Breed": "Dachshund",
+       "img": "https://github.com/Franzcsng/VetSyncJsons/blob/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/dach.jpg"
     },
     {
       "id": "003",
       "name": "Collie",
       "Age": "3yrs Old",
       "Breed": "Pug",
+      "img": "https://github.com/Franzcsng/VetSyncJsons/blob/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/pug.jpg"
     },
     {
       "id": "004",
       "name": "Grogu",
       "Age": "3yrs Old",
       "Breed": "German Shephered",
+       "img": "https://github.com/Franzcsng/VetSyncJsons/blob/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/german.jpg"
     },
     {
       "id": "005",
       "name": "Stark",
       "Age": "3yrs Old",
       "Breed": "Malinois",
+       "img": "https://github.com/Franzcsng/VetSyncJsons/blob/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/malin.jpg"
     },
   ]
 }
