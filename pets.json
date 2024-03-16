@@ -12,7 +12,7 @@
       "name": "James",
       "age": "1yr Old",
       "breed": "Dachshund",
-       "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/dach.jpg"
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/dach.jpg"
     },
     {
       "id": "003",
@@ -26,14 +26,14 @@
       "name": "Grogu",
       "age": "3yrs Old",
       "breed": "German Shephered",
-       "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/german.jpg"
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/german.jpg"
     },
     {
       "id": "005",
       "name": "Stark",
       "age": "3yrs Old",
       "breed": "Malinois",
-       "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/malin.jpg"
-    },
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/08866d59f63ab6db4cfcce5a07135cf6d3e710df/images/petimgs/malin.jpg"
+    }
   ]
 }
