@@ -1,0 +1,52 @@
+{
+  "vets":[
+    {
+      "id":"1",
+      "name": "Dr. Emily Garcia",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/vetimgs/vetimage1.webp",
+      "details": "Dr. Emily Garcia is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
+    },
+    {
+      "id":"2",
+      "name": "Dr. Alexander Patel",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/vetimgs/vetimage2.jpg",
+      "details": "Dr. Alexander Patel is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
+    },
+    {
+      "id":"3",
+      "name": "Dr. Jasmine Nguyen",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/vetimgs/vetimg3.jpg",
+      "details": "Dr. Jasmine Nguyen is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
+    },
+    {
+      "id":"4",
+      "name": "Dr. Sophia Lee",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/vetimgs/vetimg4.jpg",
+      "details": "Dr. Sophia Lee is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
+    },
+    {
+      "id":"5",
+      "name": "Dr. Olivia Martinez",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/vetimgs/vetimage1.webp",
+      "details": "Dr. Olivia Martinez is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
+    },
+    {
+      "id":"6",
+      "name": "Dr. Noah Brown",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/vetimgs/vetimg6.jpg",
+      "details": "Dr. Noah Brown is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
+    },
+    {
+      "id":"7",
+      "name": "Dr. Benjamin Smith",
+      "img": "https://github.com/Franzcsng/VetSyncJsons/blob/main/vetimgs/vetimg7.jpg",
+      "details": "Dr. Benjamin Smith is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
+    },
+    {
+      "id":"8",
+      "name": "Dr. Ethan Johnson",
+      "img": "https://github.com/Franzcsng/VetSyncJsons/blob/main/vetimgs/vetimg8.jpg",
+      "details": "Dr. Ethan Johnson is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
+    }
+  ]
+}
