@@ -8,7 +8,7 @@
       "email": "info@happypawsvetclinic.com",
       "phone": "+63 123 456 7890",
       "details": "Zitro Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your furry friends. From routine check-ups to surgical procedures, we strive to exceed the expectations of both pets and their owners.",
-    }
+    },
      {
       "id": "2",
       "name": "PetLove Vet",
@@ -17,7 +17,7 @@
       "email": "info@happypawsvetclinic.com",
       "phone": "+63 123 456 7890",
       "details": "PetLove Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your furry friends. From routine check-ups to surgical procedures, we strive to exceed the expectations of both pets and their owners.",
-    }
+    },
     {
       "id": "3",
       "name": "PurePet",
@@ -26,7 +26,7 @@
       "email": "info@happypawsvetclinic.com",
       "phone": "+63 123 456 7890",
       "details": "PurePet Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your furry friends. From routine check-ups to surgical procedures, we strive to exceed the expectations of both pets and their owners.",
-    }
+    },
     {
       "id": "4",
       "name": "MaxiPet",
@@ -35,6 +35,6 @@
       "email": "info@happypawsvetclinic.com",
       "phone": "+63 123 456 7890",
       "details": "MaxiPet Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your furry friends. From routine check-ups to surgical procedures, we strive to exceed the expectations of both pets and their owners.",
-    }
+    },
   ]
 }
