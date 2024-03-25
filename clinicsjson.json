@@ -2,11 +2,30 @@
   "clinics":[
     {
       "id": "1",
-      "name": ,
-      "img": ,
-      "address":,
-      
-      
+      "name": "Zitro Vet",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/clinicimgs/12_cc4dd312-53f2-491f-acd6-1228e29488b1_500x.webp",
+      "address": "123 Happiness Street, Barangay Joyful, Bacolod City",
+      "email": "info@happypawsvetclinic.com",
+      "phone": "+63 123 456 7890",
+      "details": "Happy Paws Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your furry friends. From routine check-ups to surgical procedures, we strive to exceed the expectations of both pets and their owners.",
+    }
+     {
+      "id": "2",
+      "name": "PetLove Vet",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/clinicimgs/animal-pet-logo-designs-260nw-1127879366.webp",
+      "address": "456 Prosperity Avenue, Barangay Hopeful, Bacolod City",
+      "email": "info@happypawsvetclinic.com",
+      "phone": "+63 123 456 7890",
+      "details": "Happy Paws Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your furry friends. From routine check-ups to surgical procedures, we strive to exceed the expectations of both pets and their owners.",
+    }
+    {
+      "id": "3",
+      "name": "PurePet",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/clinicimgs/animal-pet-logo-designs-260nw-1127879366.webp",
+      "address": "123 Happiness Street, Barangay Joyful, Bacolod City",
+      "email": "info@happypawsvetclinic.com",
+      "phone": "+63 123 456 7890",
+      "details": "Happy Paws Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your furry friends. From routine check-ups to surgical procedures, we strive to exceed the expectations of both pets and their owners.",
     }
   ]
 }
