@@ -39,13 +39,13 @@
     {
       "id":"7",
       "name": "Dr. Benjamin Smith",
-      "img": "https://github.com/Franzcsng/VetSyncJsons/blob/main/vetimgs/vetimg7.jpg",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/vetimgs/vetimg7.jpg",
       "details": "Dr. Benjamin Smith is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
     },
     {
       "id":"8",
       "name": "Dr. Ethan Johnson",
-      "img": "https://github.com/Franzcsng/VetSyncJsons/blob/main/vetimgs/vetimg8.jpg",
+      "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/vetimgs/vetimg8.jpg",
       "details": "Dr. Ethan Johnson is a skilled pediatrician with a passion for ensuring the well-being of children. With extensive experience and a warm bedside manner, Dr. Garcia is dedicated to providing comprehensive and compassionate care to her young patients."
     }
   ]
