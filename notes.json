@@ -1,31 +1,31 @@
 {
   "food":[
-  {
-    "id":"1",
+   {
+    "id": "1",
     "title": "Foods for Healthy Puppies",
     "description": "Explore essential nutrients and dietary practices in 'Foods for Healthy Puppies,' your comprehensive guide to nurturing your puppy's well-being from the start.",
     "author": "Doctor Hansen"
   },
   {
-    "id":"2",
+    "id": "2",
     "title": "How to Clean Kitten Litter",
     "description": "Learn the essential steps and best practices for keeping your kitten's litter box clean and odor-free, ensuring a healthy and comfortable environment for your feline friend.",
     "author": "John Lacquer"
   },
-{
-    "id":"3",
+  {
+    "id": "3",
     "title": "Catnip? What Does it Do.",
     "description": "Discover the fascinating effects of catnip and its unique interaction with feline behavior, from eliciting playful antics to providing a calming effect on some cats.",
     "author": "Shera Polick"
   },
-{
-    "id":"4",
+  {
+    "id": "4",
     "title": "Dog Training 101",
     "description": "Master the basics of dog training with 'Dog Training 101,' your go-to guide for building a strong bond and teaching essential skills to your furry friend.",
     "author": "John Likert"
   },
-{
-    "id":"5",
+  {
+    "id": "5",
     "title": "Canine Maintenance",
     "description": "Ensure your pup's well-being with 'Canine Maintenance,' your guide to keeping your dog healthy, happy, and thriving.",
     "author": "Sarach Gap"
