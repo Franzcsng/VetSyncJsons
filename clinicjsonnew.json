@@ -1,0 +1,47 @@
+[
+  {
+    "clinic_id": "1",
+    "clinic_name": "Zitro Vet",
+    "clinic_address": "123 Happiness Street, Barangay Joyful, Bacolod City",
+    "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/clinicimgs/12_cc4dd312-53f2-491f-acd6-1228e29488b1_500x.webp",
+    "clinic_email": "info@happypawsvetclinic.com",
+    "clinic_no": "+63 123 456 7890",
+    "details": "Zitro Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your furry"
+  },
+  {
+    "clinic_id": "2",
+    "clinic_name": "PetLove Vet",
+    "clinic_address": "456 Prosperity Avenue, Barangay Hopeful, Bacolod City",
+    "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/clinicimgs/animal-pet-logo-designs-260nw-1127879366.webp",
+    "clinic_email": "info@happypawsvetclinic.com",
+    "clinic_no": "+63 123 456 7890",
+    "details": "PetLove Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your fur"
+  },
+  {
+    "clinic_id": "3",
+    "clinic_name": "PurePet",
+    "clinic_address": "789 Harmony Road, Barangay Cheerful, Bacolod City",
+    "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/clinicimgs/logo-veterinary-clinic-vector-10786531.jpg",
+    "clinic_email": "info@happypawsvetclinic.com",
+    "clinic_no": "+63 123 456 7890",
+    "details": "PurePet Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your fur"
+  },
+  {
+    "clinic_id": "4",
+    "clinic_name": "MaxiPet",
+    "clinic_address": "789 Harmony Road, Barangay Cheerful, Bacolod City",
+    "img": "https://raw.githubusercontent.com/Franzcsng/VetSyncJsons/main/clinicimgs/veterinary-clinic-logo-silhouette-dog-vector-26733005.jpg",
+    "clinic_email": "info@happypawsvetclinic.com",
+    "clinic_no": "+63 123 456 7890",
+    "details": "MaxiPet Veterinary Clinic is dedicated to providing compassionate and high-quality care for pets in Bacolod City and surrounding areas. Our team of experienced veterinarians and support staff are committed to ensuring the health and well-being of your fur"
+  },
+  {
+    "clinic_id": "5",
+    "clinic_name": "Best Clinic",
+    "clinic_address": "Bacolod City Granaa Handumanan City Bacolod",
+    "img": "uploads/20231116_103952_389147__1200x1200.jpg",
+    "clinic_email": "aadm@usls.ph",
+    "clinic_no": "0926740003",
+    "details": "adsdvsevsdvsvsdvsdvsdvsdvssdvsdvsdvsdvsdvsdvsdvsd"
+  }
+]
